@@ -10,7 +10,7 @@ Experienced Environmental Engineer with over 7 years of expertise in Water and E
 - **Backend**: Express, Node.js, Sequelize
 - **Database**: PostgreSQL
 - **APIs**: Axios
-- **Other Tools**: Redux, react-i18next, @cloudinary/react, Stripe, SweetAlert2
+- **Other Tools**: Redux, react-i18next, @cloudinary/react, SweetAlert2
 - **Deployment Platforms**: Railway, Vercel
 
 ## Projects
